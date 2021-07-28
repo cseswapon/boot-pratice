@@ -1,0 +1,17 @@
+header{
+    background-color: #FFF9F4;
+}
+section{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.nike-text{
+    color: #FA804C;
+}
+.run-text{
+    color: #363958;
+}
+.bg-custom{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
